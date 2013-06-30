@@ -1,7 +1,7 @@
 import heapq
-k = 10
-
 import math
+
+k = 10
 
 # calculate the distance between v1 and v2
 def euclidean(v1, v2):
